@@ -3,3 +3,4 @@ pdfplumber
 pandas
 openpyxl
 plotly
+firebase-admin
